@@ -1,11 +1,10 @@
-# Information
+# COVID-19 Information
 
 https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html
 
 https://resources-covid19canada.hub.arcgis.com/
 
-
-# Online learning resources during Covid-19
+# Online learning resources
 
 [Scholastic Learn@Home](https://scholastic.com/learnathome)
 
@@ -28,3 +27,9 @@ https://www.greatschools.org/gk/worksheets/?grade=kindergarten
 [An Astronaut's Guide to Life in Space ](https://www.youtube.com/playlist?list=PLPfak9ofGSn9vOEkIz328i4xQQq7e0kjc)
 
 [Cincinatti Zoo & Botanical Garden Daily Tour](https://www.youtube.com/user/CincinnatiZooTube)
+
+# Communications
+
+[Google Hangouts](https://hangouts.google.com/)
+[Zoom.us](https://zoom.us)
+
