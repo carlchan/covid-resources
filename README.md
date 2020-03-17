@@ -23,3 +23,5 @@ https://www.greatschools.org/gk/worksheets/?grade=kindergarten
 # YouTube
 
 [An Astronaut's Guide to Life in Space ](https://www.youtube.com/playlist?list=PLPfak9ofGSn9vOEkIz328i4xQQq7e0kjc)
+
+[Cincinatti Zoo & Botanical Garden Daily Tour](https://www.youtube.com/user/CincinnatiZooTube)
