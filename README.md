@@ -37,6 +37,8 @@ https://www.crayola.com/featured/free-coloring-pages/
 
 [Paper Airplanes](https://www.foldnfly.com/)
 
+[Museum Virtual Tours](https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours)
+
 # YouTube
 
 [An Astronaut's Guide to Life in Space ](https://www.youtube.com/playlist?list=PLPfak9ofGSn9vOEkIz328i4xQQq7e0kjc)
