@@ -9,7 +9,7 @@ https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technic
 
 # Online learning resources
 
-[Scholastic Learn@Home](https://scholastic.com/learnathome)
+[Scholastic LearnAtHome](https://classroommagazines.scholastic.com/support/learnathome.html)
 
 [Balanced Literacy Diet](https://www.oise.utoronto.ca/balancedliteracydiet/Home/index.html)
 
