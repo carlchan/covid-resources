@@ -13,6 +13,9 @@ https://resources-covid19canada.hub.arcgis.com/
 
 [Sightwords](https://sightwords.com/sight-words/games/)
 
+[Khan Academy](https://www.khanacademy.org/)
+
+[Raz-Kids e-books](https://www.raz-kids.com/)
 
 # Kindergarten Worksheets 
 
