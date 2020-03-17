@@ -38,6 +38,8 @@ https://www.greatschools.org/gk/worksheets/?grade=kindergarten
 
 [Cincinatti Zoo & Botanical Garden Daily Tour](https://www.youtube.com/user/CincinnatiZooTube)
 
+Earphones REQUIRED, but they'll love this.[SpaceX Rocket Launch](https://youtu.be/x7uQ8OWiheM?t=598)
+
 # Communications
 
 [Google Hangouts](https://hangouts.google.com/)
