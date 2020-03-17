@@ -45,6 +45,8 @@ https://www.crayola.com/featured/free-coloring-pages/
 
 [Cincinatti Zoo & Botanical Garden Daily Tour](https://www.youtube.com/user/CincinnatiZooTube)
 
+[Cosmic Kids Yoga](https://www.youtube.com/user/CosmicKidsYoga)
+
 [SciShow Kids](https://www.youtube.com/user/scishowkids)
 
 Earphones REQUIRED, but they'll love this. [SpaceX Rocket Launch w/binaural audio](https://youtu.be/x7uQ8OWiheM?t=598)
