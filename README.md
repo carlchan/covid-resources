@@ -26,6 +26,8 @@ https://www.worksheetfun.com/kindergarten-worksheets/
 
 https://www.greatschools.org/gk/worksheets/?grade=kindergarten
 
+https://www.crayola.com/featured/free-coloring-pages/
+
 # Activities
 
 [Origami](https://www.origamiway.com/)
