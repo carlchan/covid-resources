@@ -11,6 +11,8 @@ https://resources-covid19canada.hub.arcgis.com/
 
 [Balanced Literacy Diet](https://www.oise.utoronto.ca/balancedliteracydiet/Home/index.html)
 
+[Sightwords](https://sightwords.com/sight-words/games/)
+
 
 # Kindergarten Worksheets 
 
