@@ -6,6 +6,8 @@ https://resources-covid19canada.hub.arcgis.com/
 
 # Online learning resources
 
+[Kids Activities Blog list](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/)
+
 [Scholastic Learn@Home](https://scholastic.com/learnathome)
 
 [Balanced Literacy Diet](https://www.oise.utoronto.ca/balancedliteracydiet/Home/index.html)
@@ -31,5 +33,6 @@ https://www.greatschools.org/gk/worksheets/?grade=kindergarten
 # Communications
 
 [Google Hangouts](https://hangouts.google.com/)
+
 [Zoom.us](https://zoom.us)
 
