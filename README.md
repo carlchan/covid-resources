@@ -4,6 +4,8 @@ https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-cov
 
 https://resources-covid19canada.hub.arcgis.com/
 
+https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/
+
 # Online learning resources
 
 [Kids Activities Blog list](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/)
@@ -23,6 +25,10 @@ https://resources-covid19canada.hub.arcgis.com/
 https://www.worksheetfun.com/kindergarten-worksheets/
 
 https://www.greatschools.org/gk/worksheets/?grade=kindergarten
+
+# Activities
+
+[Origami](https://www.origamiway.com/)
 
 # YouTube
 
