@@ -6,9 +6,8 @@ https://resources-covid19canada.hub.arcgis.com/
 
 https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/
 
-# Online learning resources
 
-[Kids Activities Blog list](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/)
+# Online learning resources
 
 [Scholastic Learn@Home](https://scholastic.com/learnathome)
 
@@ -49,4 +48,10 @@ Earphones REQUIRED, but they'll love this. [SpaceX Rocket Launch w/binaural audi
 [Google Hangouts](https://hangouts.google.com/)
 
 [Zoom.us](https://zoom.us)
+
+# Other compiled lists
+
+[Kids Activities Blog list](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/)
+
+http://www.amazingeducationalresources.com/
 
