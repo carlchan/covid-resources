@@ -1,16 +1,18 @@
 # Information
-https://resources-covid19canada.hub.arcgis.com/
 
 https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html
+
+https://resources-covid19canada.hub.arcgis.com/
 
 
 # Online learning resources during Covid-19
 
-https://www.oise.utoronto.ca/balancedliteracydiet/Home/index.html
+[Scholastic Learn@Home](https://scholastic.com/learnathome)
 
-https://scholastic.com/learnathome
+[Balanced Literacy Diet](https://www.oise.utoronto.ca/balancedliteracydiet/Home/index.html)
 
-# Worksheets 
+
+# Kindergarten Worksheets 
 
 https://www.worksheetfun.com/kindergarten-worksheets/
 
