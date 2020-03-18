@@ -21,7 +21,7 @@ https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technic
 
 [LearningApps](https://learningapps.org/)
 
-# Kindergarten Worksheets 
+# Printable Worksheets
 
 https://www.worksheetfun.com/kindergarten-worksheets/
 
