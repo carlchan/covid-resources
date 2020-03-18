@@ -21,8 +21,6 @@ https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technic
 
 [LearningApps](https://learningapps.org/)
 
-[Google Arts&Culture](https://artsandculture.google.com/)
-
 # Kindergarten Worksheets 
 
 https://www.worksheetfun.com/kindergarten-worksheets/
@@ -45,7 +43,7 @@ http://www.printactivities.com
 
 [Museum Virtual Tours](https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours)
 
-# YouTube
+# Videos and Virtual Tours
 
 [An Astronaut's Guide to Life in Space ](https://www.youtube.com/playlist?list=PLPfak9ofGSn9vOEkIz328i4xQQq7e0kjc)
 
@@ -54,6 +52,8 @@ http://www.printactivities.com
 [Cosmic Kids Yoga](https://www.youtube.com/user/CosmicKidsYoga)
 
 [SciShow Kids](https://www.youtube.com/user/scishowkids)
+
+[Google Arts&Culture](https://artsandculture.google.com/)
 
 Earphones REQUIRED, but they'll love this. [SpaceX Rocket Launch w/binaural audio](https://youtu.be/x7uQ8OWiheM?t=598)
 
