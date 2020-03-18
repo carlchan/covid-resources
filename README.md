@@ -21,14 +21,6 @@ https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technic
 
 [ReadingIQ](www.ReadingIQ.com/redeem) Use code: **AOFLUNICEF**
 
-# Apps
-
-[Duolingo](https://www.duolingo.com/)
-
-[Khan Academy Kids](https://learn.khanacademy.org/khan-academy-kids/)
-
-[LearningApps](https://learningapps.org/)
-
 # Printable Worksheets
 
 https://www.worksheetfun.com/kindergarten-worksheets/
@@ -54,6 +46,22 @@ http://www.printactivities.com
 [Museum Virtual Tours](https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours)
 
 [Cosmic Kids Yoga](https://www.youtube.com/user/CosmicKidsYoga)
+
+# Apps
+
+[Duolingo](https://www.duolingo.com/)
+
+[Khan Academy Kids](https://learn.khanacademy.org/khan-academy-kids/)
+
+[LearningApps](https://learningapps.org/)
+
+# Games
+
+[Adventure Academy](https://www.AdventureAcademy.com/redeem) Use code: **AOFLUNICEF**
+
+[Number Munchers](https://archive.org/details/msdos_Number_Munchers_1990)
+
+[Oregon Trai](https://archive.org/details/msdos_Oregon_Trail_The_1990)
 
 # Videos
 
