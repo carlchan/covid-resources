@@ -45,13 +45,13 @@ http://www.printactivities.com
 
 [Museum Virtual Tours](https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours)
 
+[Cosmic Kids Yoga](https://www.youtube.com/user/CosmicKidsYoga)
+
 # Videos
 
 [An Astronaut's Guide to Life in Space ](https://www.youtube.com/playlist?list=PLPfak9ofGSn9vOEkIz328i4xQQq7e0kjc)
 
 [Cincinatti Zoo & Botanical Garden Daily Tour](https://www.youtube.com/user/CincinnatiZooTube)
-
-[Cosmic Kids Yoga](https://www.youtube.com/user/CosmicKidsYoga)
 
 [SciShow Kids](https://www.youtube.com/user/scishowkids)
 
