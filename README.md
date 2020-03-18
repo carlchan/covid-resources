@@ -61,7 +61,7 @@ http://www.printactivities.com
 
 [Number Munchers](https://archive.org/details/msdos_Number_Munchers_1990)
 
-[Oregon Trai](https://archive.org/details/msdos_Oregon_Trail_The_1990)
+[Oregon Trail](https://archive.org/details/msdos_Oregon_Trail_The_1990)
 
 # Videos
 
