@@ -19,6 +19,12 @@ https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technic
 
 [Raz-Kids e-books](https://www.raz-kids.com/)
 
+# Apps
+
+[Duolingo](https://www.duolingo.com/)
+
+[Khan Academy Kids](https://learn.khanacademy.org/khan-academy-kids/)
+
 [LearningApps](https://learningapps.org/)
 
 # Printable Worksheets
@@ -52,6 +58,8 @@ http://www.printactivities.com
 [An Astronaut's Guide to Life in Space ](https://www.youtube.com/playlist?list=PLPfak9ofGSn9vOEkIz328i4xQQq7e0kjc)
 
 [Cincinatti Zoo & Botanical Garden Daily Tour](https://www.youtube.com/user/CincinnatiZooTube)
+
+[San Diego Zoo Live animal camera streams](https://animals.sandiegozoo.org/live-cams)
 
 [SciShow Kids](https://www.youtube.com/user/scishowkids)
 
