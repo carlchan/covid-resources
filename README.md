@@ -35,6 +35,8 @@ https://www.thesprucecrafts.com/connect-dots-worksheets-1357606
 
 https://activities.raisingourkids.com/connect-dot-to-dot/index-02.html
 
+http://www.printactivities.com
+
 # Activities
 
 [Origami](https://www.origamiway.com/)
