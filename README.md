@@ -41,9 +41,11 @@ http://www.printactivities.com
 
 [Paper Airplanes](https://www.foldnfly.com/)
 
+[Google Arts&Culture](https://artsandculture.google.com/)
+
 [Museum Virtual Tours](https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours)
 
-# Videos and Virtual Tours
+# Videos
 
 [An Astronaut's Guide to Life in Space ](https://www.youtube.com/playlist?list=PLPfak9ofGSn9vOEkIz328i4xQQq7e0kjc)
 
@@ -52,8 +54,6 @@ http://www.printactivities.com
 [Cosmic Kids Yoga](https://www.youtube.com/user/CosmicKidsYoga)
 
 [SciShow Kids](https://www.youtube.com/user/scishowkids)
-
-[Google Arts&Culture](https://artsandculture.google.com/)
 
 Earphones REQUIRED, but they'll love this. [SpaceX Rocket Launch w/binaural audio](https://youtu.be/x7uQ8OWiheM?t=598)
 
