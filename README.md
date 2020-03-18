@@ -55,6 +55,8 @@ http://www.printactivities.com
 
 [SciShow Kids](https://www.youtube.com/user/scishowkids)
 
+[NASA Explorers](https://www.youtube.com/playlist?list=PL2aBZuCeDwlQDM6x6FpHE_X0iL7hvoRpR)
+
 Earphones REQUIRED, but they'll love this. [SpaceX Rocket Launch w/binaural audio](https://youtu.be/x7uQ8OWiheM?t=598)
 
 # Communications
