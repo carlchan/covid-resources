@@ -19,6 +19,8 @@ https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technic
 
 [Raz-Kids e-books](https://www.raz-kids.com/)
 
+[ABCMouse](https://ABCmouse.com/redeem) Use code: **AOFLUNICEF**
+
 # Apps
 
 [Duolingo](https://www.duolingo.com/)
@@ -72,6 +74,12 @@ Earphones REQUIRED, but they'll love this. [SpaceX Rocket Launch w/binaural audi
 [Google Hangouts](https://hangouts.google.com/)
 
 [Zoom.us](https://zoom.us)
+
+# For grownups
+
+[Free text books from Cambridge University Press](https://www.cambridge.org/core/what-we-publish/textbooks)
+
+
 
 # Other compiled lists
 
