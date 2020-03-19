@@ -1,5 +1,5 @@
 Frequently updated list of resources for Canadian parents during COVID-19 shutdown
-Last Updated: Mar 19, 5:32pm
+Last Updated: Mar 19, 5:44pm
 
 # COVID-19 Information
 
@@ -49,6 +49,8 @@ http://www.printactivities.com
 [Museum of Flight](https://www.museumofflight.org/Explore-The-Museum/Virtual-Museum-Online)
 
 [Cosmic Kids Yoga](https://www.youtube.com/user/CosmicKidsYoga)
+
+[GoNoodle Dance](https://family.gonoodle.com/)
 
 # Apps
 
