@@ -17,8 +17,6 @@ https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technic
 
 [Khan Academy](https://www.khanacademy.org/)
 
-[Raz-Kids e-books](https://www.raz-kids.com/)
-
 [ReadingIQ](www.ReadingIQ.com/redeem) Use code: **AOFLUNICEF**
 
 # Printable Worksheets
