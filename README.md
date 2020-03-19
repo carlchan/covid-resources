@@ -1,3 +1,6 @@
+Frequently updated list of resources for Canadian parents during COVID-19 shutdown
+Last Updated: Mar 19, 5:32pm
+
 # COVID-19 Information
 
 https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html
