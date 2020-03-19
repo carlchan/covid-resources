@@ -55,6 +55,8 @@ http://www.printactivities.com
 
 [LearningApps](https://learningapps.org/)
 
+[Digital LEGO builder/designer](https://www.bricklink.com/v2/build/studio.page)
+
 # Games
 
 [Adventure Academy](https://www.AdventureAcademy.com/redeem) Use code: **AOFLUNICEF**
