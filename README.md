@@ -43,6 +43,8 @@ http://www.printactivities.com
 
 [Museum Virtual Tours](https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours)
 
+[Museum of Flight](https://www.museumofflight.org/Explore-The-Museum/Virtual-Museum-Online)
+
 [Cosmic Kids Yoga](https://www.youtube.com/user/CosmicKidsYoga)
 
 # Apps
