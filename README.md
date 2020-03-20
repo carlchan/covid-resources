@@ -1,6 +1,6 @@
 Frequently updated list of resources for Canadian parents during COVID-19 shutdown
 
-Last Updated: Mar 19, 5:44pm
+Last Updated: Mar 20, 5:52pm
 
 # COVID-19 Information
 
@@ -13,7 +13,9 @@ https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technic
 
 # Online learning resources
 
-[Scholastic LearnAtHome](https://classroommagazines.scholastic.com/support/learnathome.html)
+[Ontario Learn At Home](https://www.ontario.ca/page/learn-at-home)
+
+[Scholastic Learn At Home](https://classroommagazines.scholastic.com/support/learnathome.html)
 
 [Balanced Literacy Diet](https://www.oise.utoronto.ca/balancedliteracydiet/Home/index.html)
 
