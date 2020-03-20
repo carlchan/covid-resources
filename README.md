@@ -27,6 +27,8 @@ https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technic
 
 https://www.worksheetfun.com/kindergarten-worksheets/
 
+https://www.k5learning.com/
+
 https://www.greatschools.org/gk/worksheets/?grade=kindergarten
 
 https://www.crayola.com/featured/free-coloring-pages/
