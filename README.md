@@ -1,6 +1,6 @@
 Frequently updated list of resources for Canadian parents during COVID-19 shutdown
 
-Last Updated: Mar 20, 5:52pm
+Last Updated: Mar 20, 10:02pm
 
 # COVID-19 Information
 
@@ -24,6 +24,8 @@ https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technic
 [Khan Academy](https://www.khanacademy.org/)
 
 [ReadingIQ](www.ReadingIQ.com/redeem) Use code: **AOFLUNICEF**
+
+[BrainPop](https://go.brainpop.com/COVID19)
 
 # Printable Worksheets
 
