@@ -1,6 +1,6 @@
 Frequently updated list of resources for Canadian parents during COVID-19 shutdown
 
-Last Updated: Mar 20, 10:02pm
+Last Updated: Mar 21, 3:02pm
 
 # COVID-19 Information
 
@@ -101,7 +101,7 @@ Earphones REQUIRED, but they'll love this. [SpaceX Rocket Launch w/binaural audi
 
 [Free text books from Cambridge University Press](https://www.cambridge.org/core/what-we-publish/textbooks)
 
-
+[Free photography lessons from Professional Photographers of America](https://www.ppa.com/education-unlocked)
 
 # Other compiled lists
 
