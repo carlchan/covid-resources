@@ -1,6 +1,6 @@
 Frequently updated list of resources for Canadian parents during COVID-19 shutdown
 
-Last Updated: Mar 22, 11:02pm
+Last Updated: Mar 23, 12:22pm
 
 # COVID-19 Information
 
@@ -60,6 +60,8 @@ https://www.education.com/worksheets/  (Requires free account)
 [Cosmic Kids Yoga](https://www.youtube.com/user/CosmicKidsYoga)
 
 [GoNoodle Dance](https://family.gonoodle.com/)
+
+[Audible Stories](https://stories.audible.com/discovery)
 
 # Apps
 
