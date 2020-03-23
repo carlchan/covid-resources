@@ -33,8 +33,6 @@ https://www.worksheetfun.com/kindergarten-worksheets/
 
 https://www.k5learning.com/free-worksheets-for-kids
 
-https://www.education.com/worksheets/
-
 https://www.greatschools.org/gk/worksheets/?grade=kindergarten
 
 https://www.crayola.com/featured/free-coloring-pages/
@@ -44,6 +42,8 @@ https://www.thesprucecrafts.com/connect-dots-worksheets-1357606
 https://activities.raisingourkids.com/connect-dot-to-dot/index-02.html
 
 http://www.printactivities.com
+
+https://www.education.com/worksheets/  (Requires free account)
 
 # Activities
 
