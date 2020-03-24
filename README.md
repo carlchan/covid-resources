@@ -83,6 +83,8 @@ https://www.education.com/worksheets/  (Requires free account)
 
 [Oregon Trail](https://archive.org/details/msdos_Oregon_Trail_The_1990)
 
+[Card Games](http://playingcards.io/)
+
 # Videos
 
 [An Astronaut's Guide to Life in Space ](https://www.youtube.com/playlist?list=PLPfak9ofGSn9vOEkIz328i4xQQq7e0kjc)
