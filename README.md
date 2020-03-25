@@ -1,6 +1,6 @@
 Frequently updated list of resources for Canadian parents during COVID-19 shutdown
 
-Last Updated: Mar 23, 10:22pm
+Last Updated: Mar 25, 11:00am
 
 # COVID-19 Information
 
@@ -18,6 +18,8 @@ https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technic
 [Ontario Learn At Home](https://www.ontario.ca/page/learn-at-home)
 
 [Scholastic Learn At Home](https://classroommagazines.scholastic.com/support/learnathome.html)
+
+[Scholastic Free Digital Subscriptions](http://scholastic.ca/education/free_digital_resources/)
 
 [Balanced Literacy Diet](https://www.oise.utoronto.ca/balancedliteracydiet/Home/index.html)
 
@@ -96,6 +98,8 @@ https://www.education.com/worksheets/  (Requires free account)
 [SciShow Kids](https://www.youtube.com/user/scishowkids)
 
 [NASA Explorers](https://www.youtube.com/playlist?list=PL2aBZuCeDwlQDM6x6FpHE_X0iL7hvoRpR)
+
+[CBC Podcasts in Class](https://www.cbc.ca/radio/podcastnews/cbc-podcasts-in-class-free-education-resources-for-canadian-kids-1.5264962)
 
 Earphones REQUIRED, but they'll love this. [SpaceX Rocket Launch w/binaural audio](https://youtu.be/x7uQ8OWiheM?t=598)
 
