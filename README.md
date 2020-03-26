@@ -67,6 +67,8 @@ https://www.education.com/worksheets/  (Requires free account)
 
 [Audible Stories](https://stories.audible.com/discovery)
 
+[Instructables](https://www.instructables.com/)
+
 # Apps
 
 [Duolingo](https://www.duolingo.com/)
