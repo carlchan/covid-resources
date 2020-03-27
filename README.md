@@ -69,6 +69,8 @@ https://www.education.com/worksheets/  (Requires free account)
 
 [Instructables](https://www.instructables.com/)
 
+[Bubble Solution Recipe](bubble-recipe.md)
+
 # Apps
 
 [Duolingo](https://www.duolingo.com/)
