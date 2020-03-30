@@ -17,6 +17,8 @@ https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technic
 
 [Ontario Learn At Home](https://www.ontario.ca/page/learn-at-home)
 
+[Toronto Public Library](https://torontopubliclibrary.typepad.com/digital-services/2020/03/38-ways-to-use-the-library-from-home.html)
+
 [Scholastic Learn At Home](https://classroommagazines.scholastic.com/support/learnathome.html)
 
 [Scholastic Free Digital Subscriptions](http://scholastic.ca/education/free_digital_resources/)
