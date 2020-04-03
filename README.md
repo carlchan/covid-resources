@@ -35,6 +35,8 @@ https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technic
 
 [Raz-Kids](https://www.learninga-z.com/site/lp2/covid19?utm_source=razkids&utm_medium=banner&utm_campaign=90_day)
 
+[Twinkl](https://www.twinkl.ca/)
+
 # Printable Worksheets
 
 https://www.worksheetfun.com/kindergarten-worksheets/
