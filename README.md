@@ -10,8 +10,7 @@ https://resources-covid19canada.hub.arcgis.com/
 
 https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/
 
-[Ontario Essential Services list](https://news.ontario.ca/opo/en/2020/03/list-of-essential-workplaces.doc)
-**[Mirror](ontario-essential-services.md)**
+[Ontario Essential Services list](https://www.ontario.ca/page/list-essential-workplaces)
 
 # Online learning resources
 
