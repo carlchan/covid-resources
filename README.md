@@ -128,6 +128,8 @@ Earphones REQUIRED, but they'll love this. [SpaceX Rocket Launch w/binaural audi
 
 [National Emergency Library](https://archive.org/details/nationalemergencylibrary)
 
+[Pluralsight skill development courses](https://www.pluralsight.com/)
+
 # Other compiled lists
 
 [Kids Activities Blog list](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/)
