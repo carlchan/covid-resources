@@ -1,6 +1,6 @@
 Frequently updated list of resources for Canadian parents during COVID-19 shutdown
 
-Last Updated: Apr 3, 6pm
+Last Updated: Apr 5, 12pm
 
 # COVID-19 Information
 
@@ -129,6 +129,8 @@ Earphones REQUIRED, but they'll love this. [SpaceX Rocket Launch w/binaural audi
 [National Emergency Library](https://archive.org/details/nationalemergencylibrary)
 
 [Pluralsight skill development courses](https://www.pluralsight.com/)
+
+[Free Marvel Comics](https://www.comixology.com/Marvel-Free-Comics/page/23611)
 
 # Other compiled lists
 
