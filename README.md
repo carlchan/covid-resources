@@ -36,6 +36,8 @@ https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technic
 
 [Twinkl](https://www.twinkl.ca/)
 
+[NationalGeographic Kids](https://kids.nationalgeographic.com/)
+
 # Printable Worksheets
 
 https://www.worksheetfun.com/kindergarten-worksheets/
