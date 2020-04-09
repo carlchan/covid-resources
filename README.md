@@ -1,6 +1,6 @@
 Frequently updated list of resources for Canadian parents during COVID-19 shutdown
 
-Last Updated: Apr 5, 10pm
+Last Updated: Apr 8, 10pm
 
 # COVID-19 Information
 
@@ -95,6 +95,8 @@ https://www.education.com/worksheets/  (Requires free account)
 [Number Munchers](https://archive.org/details/msdos_Number_Munchers_1990)
 
 [Oregon Trail](https://archive.org/details/msdos_Oregon_Trail_The_1990)
+
+[Cards Against Humanity clone](https://md.rereadgames.com/)
 
 [Card Games](http://playingcards.io/)
 
