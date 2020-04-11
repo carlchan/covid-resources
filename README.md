@@ -12,6 +12,8 @@ https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technic
 
 [Ontario Essential Services list](https://www.ontario.ca/page/list-essential-workplaces)
 
+[Canadian Coronavirus Financial Support Programs (federal and provincial)](https://newsinteractives.cbc.ca/coronavirusbenefits/)
+
 # Online learning resources
 
 [Ontario Learn At Home](https://www.ontario.ca/page/learn-at-home)
