@@ -1,6 +1,6 @@
 Frequently updated list of resources for Canadian parents during COVID-19 shutdown
 
-Last Updated: Apr 8, 10pm
+Last Updated: Apr 11, 2pm
 
 # COVID-19 Information
 
@@ -47,6 +47,8 @@ https://www.k5learning.com/free-worksheets-for-kids
 https://www.greatschools.org/gk/worksheets/?grade=kindergarten
 
 https://www.crayola.com/featured/free-coloring-pages/
+
+https://library.nyam.org/colorourcollections/
 
 https://www.thesprucecrafts.com/connect-dots-worksheets-1357606
 
